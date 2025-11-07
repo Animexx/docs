@@ -1,4 +1,4 @@
-# Satzungsneufassung nach Beschluss der Mitgliederversammlung am 19.06.2021
+# Satzung
 
 ## Artikel 1 [Name und Sitz]
 
@@ -271,7 +271,7 @@ Die Mitglieder haben bei ihrem Ausscheiden keinen Anspruch auf das Vereinsvermö
 (1) Diese Satzung mit all ihren Bestandteilen tritt mit der Beschlussfassung auf der Mitgliederversammlung am 19.06.2021 in Kraft.
 
 
-# Grundsatzordnung
+## Grundsatzordnung
 
 (1) Der Verein möchte das Interesse für die Erzeugnisse der japanischen Zeichenkunst, den Anime und Manga, sowie die japanische Kultur im Allgemeinen fördern. Dabei soll die Förderung sämtliche weit gefächerte Aspekte der japanischen Kultur berücksichtigen und diesen Einflüssen offen und tolerant gegenübertreten. Der Verein versteht sich dabei primär als Hilfe zur Erweiterung des eigenen Wissens jedes einzelnen Mitglieds.
 
@@ -285,6 +285,6 @@ Die Mitglieder haben bei ihrem Ausscheiden keinen Anspruch auf das Vereinsvermö
 
 München, den 19.06.2021
 
-Gründungsmitglieder:
+## Gründungsmitglieder
 
 Julia Biedermann, Hans-Christian Blech, Tobias Erlacher, Tobias Hößl, Michael Jahn, Thorsten Kleinsteuber, Christian Mannagottera, Björn Mohns, Joachim Seidl, Sabine Schneider, Christian Schober, Martin Uhl, Johanna Uhl, Andreas Vogler, Johann Weber
