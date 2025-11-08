@@ -1,0 +1,7 @@
+site_name: Dokumente des Animexx e. V.
+theme:
+  name: readthedocs
+  locale: de
+site_url: https://docs.animexx.org
+repo_url: https://github.com/Animexx/docs
+edit_uri: main/docs/
