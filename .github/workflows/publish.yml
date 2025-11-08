@@ -24,7 +24,7 @@ jobs:
         with:
           cache: "pip"
       - run: |
-          pip install -r requirements-dev.txt
+          pip install -r requirements.txt
           mkdocs build
       - uses: actions/upload-pages-artifact@v4
         with:
