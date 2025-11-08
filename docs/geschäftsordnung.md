@@ -6,10 +6,10 @@
 
 Vorstandsitzungen können „offline“ oder „online“ sein. Offlinesitzungen finden an einem festgelegten Ort zu einer festgelegten Zeit statt. Onlinesitzungen sollen ein- bis zweimal pro Monat stattfinden. Termine werden jeweils abgestimmt. Onlinesitzungen werden mithilfe technischer Kommunikationsmittel realisiert. Folgender Personenkreis soll zu Vorstandsitzungen eingeladen werden:
 
-- Vorstandsmitglieder
-- Präsidiumsmitglieder
-- Aktivenratssprecher:innen
-- Eingesetzte Geschäftsführung
+- Die Vorstandsmitglieder
+- Die Präsidiumsmitglieder
+- Aktivenratsprecher(in)
+- Eingesetzte(r) Geschäftsführer
 
 (2) Ausschüsse
 
@@ -18,7 +18,7 @@ Als Ausschüsse werden Einzelpersonen oder Personengruppen bezeichnet, die zur B
 
 ## Artikel 2 [Sitzungen]
 
-(1) Die/der erste Vorsitzende beruft mindestens einmal im Geschäftsjahr eine Offlinesitzung ein. Für diese Sitzung muss vorab keine Tagesordnung erstellt werden. Die/der Präsident beruft einmal pro Geschäftsjahr eine Präsidiumssitzung ein. Beide Sitzungen können am gleichen Ort und zur gleichen Zeit stattfinden.
+(1) Der erste Vorsitzende beruft mindestens einmal im Geschäftsjahr eine Offlinesitzung ein. Für diese Sitzung muss vorab keine Tagesordnung erstellt werden. Der Präsident beruft einmal pro Geschäftsjahr eine Präsidiumssitzung ein. Beide Sitzungen können am gleichen Ort und zur gleichen Zeit stattfinden.
 
 (2) Vorstands- oder Präsidiumsbeschlüsse können mündlich, fernmündlich, telegraphisch, fernschriftlich oder schriftlich sowie allgemein in Textform gefasst werden.
 
