@@ -1,7 +1,22 @@
 site_name: Dokumente des Animexx e. V.
 theme:
-  name: readthedocs
-  locale: de
+  name: material
+  language: de
+  logo: /img/logo/svg/animexx-logo_RGB-weiß.svg
+  favicon: /img/favicon.ico
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - content.action.edit
+copyright: "&copy; 2026 Animexx e.V - <a href='https://verein.animexx.de/impressum/' target='_blank'>Impressum<a/>"
+plugins:
+  - privacy
+  - search
 site_url: https://docs.animexx.org
 repo_url: https://github.com/Animexx/docs
 edit_uri: blob/main/docs/
+markdown_extensions:
+  - attr_list
+extra_css:
+  - css/custom.css
