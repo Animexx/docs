@@ -5,8 +5,8 @@ theme:
   logo: /img/logo/svg/animexx-logo_RGB-weiß.svg
   favicon: /img/favicon.ico
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Source Sans 3
+    code: Source Code Pro
   features:
     - content.action.edit
 copyright: "&copy; 2026 Animexx e.V - <a href='https://verein.animexx.de/impressum/' target='_blank'>Impressum<a/>"
