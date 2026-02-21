@@ -115,6 +115,9 @@ favicon = "/img/favicon.ico"
 #
 language = "de"
 
+# Prevent fonts loading from Google Fonts
+font = false
+
 # Zensical provides a number of feature toggles that change the behavior
 # of the documentation site.
 features = [
@@ -281,9 +284,9 @@ toggle.name = "Switch to light mode"
 # of suitably licensed fonts. There are options for a normal text font and for
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
-[project.theme.font]
-text = "Source Sans 3"
-code = "Source Code Pro"
+# [project.theme.font]
+# text = "Source Sans 3"
+# code = "Source Code Pro"
 
 # ----------------------------------------------------------------------------
 # You can configure your own logo to be shown in the header using the "logo"

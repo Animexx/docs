@@ -1,7 +1,15 @@
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("/fonts/source-sans.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root > * {
     --md-primary-fg-color: #6785be;
     --md-primary-fg-color--light: #6785be;
     --md-primary-fg-color--dark:  #6785be;
+    --md-text-font: "Source Sans 3", sans-serif;
 }
 
 /* Default / Light Mode */
