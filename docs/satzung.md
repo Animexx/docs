@@ -104,6 +104,14 @@ Die Mitgliederversammlung entscheidet über Satzungsänderungen und Auflösung d
 
 (9) Die Kassenprüfer erstatten ihren Bericht mündlich der Mitgliederversammlung. Vorab haben die Kassenprüfer einen Bericht zu verfassen, der dem Vorsitzenden und dem Präsidium in Textform zuzustellen ist. Die Kassenprüfer empfehlen die Entlastung oder Nichtentlastung des Vorstandes.
 
+(10) Die Mitgliederversammlung kann als Kombination aus Präsenzveranstaltung und virtueller/online Versammlung (hybride Versammlung) abgehalten werden. Über die Form der Versammlung entscheidet der Vorstand und teilt diese in der Einladung dazu mit.
+
+a) Wird zu einer hybriden Versammlung eingeladen, werden die erforderlichen Zugangsdaten rechtzeitig vor Beginn der Versammlung an die dem Verein zuletzt bekannte E-Mail-Adresse des Mitglieds übermittelt.
+
+b) Die Stimmabgabe und die Ausübung von Mitgliederrechten mittels elektronischer Kommunikation sind zulässig. Der Vorstand ist ermächtigt, nähere Bestimmungen zum Verfahren der elektronischen Stimmabgabe festzulegen.
+
+c) Liegt eine technische Störung vor, die eine ordnungsgemäße Durchführung der Versammlung verhindert, entscheidet die Versammlungsleitung über einen Abbruch. In diesem Fall wird ein Ersatztermin innerhalb eines Monats festgelegt. Technische Störungen im Verantwortungsbereich einzelner Mitglieder beeinträchtigen die Wirksamkeit der Versammlung, der Wahlen und gefasster Beschlüsse nicht.
+
 ## Artikel 7 [Einberufung der Mitgliederversammlung]
 
 (1) Innerhalb der ersten sechs Monate eines Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt. Das Geschäftsjahr entspricht dem Kalenderjahr.
