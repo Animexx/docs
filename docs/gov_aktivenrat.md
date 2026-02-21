@@ -18,19 +18,19 @@
 
 (4) Eine Onlinewahl erfolgt geheim. An ihr müssen mindestens 25% der amtierenden Aktivenratsmitglieder teilnehmen. Die Zeit, in welcher Stimmen abgegeben werden dürfen, darf zwei Wochen nicht unterschreiten.
 
-(5) Die Anzahl der zu wählenden Aktivenratssprecher*innen kann vorab durch eine eigene Abstimmung des Aktivenrats festgelegt werden. Findet eine solche nicht statt, werden grundsätzlich 5 Sprecher*innen gewählt.
+(5) Die Anzahl der zu wählenden Aktivenratssprecher\*innen kann vorab durch eine eigene Abstimmung des Aktivenrats festgelegt werden. Findet eine solche nicht statt, werden grundsätzlich 5 Sprecher\*innen gewählt.
 
 (6) Gewählt sind jeweils die Kandidat\*innen mit den meisten Stimmen, es genügt somit eine relative Mehrheit.
 
-(7) Jedes Aktivenratsmitglied kann maximal so viele Stimmen abgeben wie Aktivenratssprecher*innen gewählt werden sollen. Dabei kann pro Kandidat*in allerdings nur eine Stimme genutzt werden.
+(7) Jedes Aktivenratsmitglied kann maximal so viele Stimmen abgeben wie Aktivenratssprecher\*innen gewählt werden sollen. Dabei kann pro Kandidat\*in allerdings nur eine Stimme genutzt werden.
 
 (8) Die Onlinewahl findet jährlich im Zeitraum vom 15. bis 30. Januar statt. Die Suche und schließlich auch die Nominierung von Kandidat\*innen findet im Zeitraum vom 1. Dezember bis 14. Januar statt.
 
-(9) Die Nominierung und Wahl wird jeweils durch einen Thread eine*r/s alten Aktivenratsprecher*in/s initiiert.
+(9) Die Nominierung und Wahl wird jeweils durch einen Thread eine\*r/s alten Aktivenratsprecher\*in/s initiiert.
 
 ## Artikel 3 Bestellung von Aktivenratssprecher\*innen
 
-(1) Falls der Aktivenrat keine Wahl durchführt oder ein/e oder mehrere Kandidat*innen bei der Wahl nicht die erforderliche Mehrheit erhalten, kann das Präsidium, nach Anhörung des Aktivenrats sowie des Vorstandes, eine Bestellung von Aktivenratssprecher*innen durchführen.
+(1) Falls der Aktivenrat keine Wahl durchführt oder ein/e oder mehrere Kandidat\*innen bei der Wahl nicht die erforderliche Mehrheit erhalten, kann das Präsidium, nach Anhörung des Aktivenrats sowie des Vorstandes, eine Bestellung von Aktivenratssprecher\*innen durchführen.
 
 (2) Eine Bestellung ist nur möglich, wenn bereits eine oder mehrere Personen gewählt wurden, allerdings nicht alle vorhandenen Plätze mit Aktivenratssprecher\*innen besetzt wurden. Hier können dann die fehlenden Posten nachbestellt werden.
 
@@ -71,9 +71,9 @@ c) Kassenwart/Kassenwartin
 
 (4) Die Aktivenratssprecher\*innen können sich Aufgaben auch teilen, dies ist nicht auf die 3 zwingend zu wählenden Posten beschränkt.
 
-(5) Alle Aktivenratssprecher*innen müssen für die Einarbeitung neuer Aktivenratssprecher*innen inkl. einer geordneten Übergabe sorgen.
+(5) Alle Aktivenratssprecher\*innen müssen für die Einarbeitung neuer Aktivenratssprecher\*innen inkl. einer geordneten Übergabe sorgen.
 
-(6) Neben den o.g. Kernaufgaben ist es einer*/m Aktivenratssprecher*in auch weiterhin möglich, frühere Tätigkeiten weiterzuführen sowie sich sonstige Betätigungsfelder zu suchen.
+(6) Neben den o.g. Kernaufgaben ist es einer\*/m Aktivenratssprecher\*in auch weiterhin möglich, frühere Tätigkeiten weiterzuführen sowie sich sonstige Betätigungsfelder zu suchen.
 
 (7) Aufgaben, die keine personenbezogenen Daten beinhalten, können an andere Aktivenratsmitglieder delegiert werden. Aufgaben, die personenbezogene Daten beinhalten, können jedoch nur in Absprache mit dem Vorstand delegiert werden.
 
@@ -87,7 +87,7 @@ c) Kassenwart/Kassenwartin
 
 (1) Der Aktivenrat beantragt ein Budget für Gemeinschaftsprojekte und den Aktiventag.
 
-(2) Dieses Budget muss dem Vorstand Anfang des Jahres durch eine*/n Sprecher*in vorgelegt werden.
+(2) Dieses Budget muss dem Vorstand Anfang des Jahres durch eine\*/n Sprecher\*in vorgelegt werden.
 
 ## Artikel 7 Tätigkeitsberichte und Protokolle
 
