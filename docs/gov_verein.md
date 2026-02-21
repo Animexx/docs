@@ -15,7 +15,6 @@ Vorstandsitzungen können „offline“ oder „online“ sein. Offlinesitzungen
 
 Als Ausschüsse werden Einzelpersonen oder Personengruppen bezeichnet, die zur Bewältigung besonderer Projekte oder Aufgaben, für einen begrenzten Zeitraum oder auf Dauer eingesetzt werden. Sie können befähigt werden, im Namen des Vorstands zu handeln.
 
-
 ## Artikel 2 [Sitzungen]
 
 (1) Der erste Vorsitzende beruft mindestens einmal im Geschäftsjahr eine Offlinesitzung ein. Für diese Sitzung muss vorab keine Tagesordnung erstellt werden. Der Präsident beruft einmal pro Geschäftsjahr eine Präsidiumssitzung ein. Beide Sitzungen können am gleichen Ort und zur gleichen Zeit stattfinden.
@@ -34,7 +33,6 @@ Andere Beschlüsse werden mit absoluter Mehrheit aller Vorstandsmitglieder gefas
 
 (4) Der Vorstand ist beschlussfähig, wenn mindestens die Hälfte der amtierenden Vorstandsmitglieder bei Offline- oder Onlinesitzungen anwesend sind. Beschlüsse im Umlaufverfahren / Anträgesystem erfordern das Votum aller Vorstandsmitglieder. Das Präsidium ist beschlussfähig, wenn die Mehrheit der Präsidiumsmitglieder anwesend ist. Abstimmungen und Wahlen finden auf Vorstands- und Präsidiumssitzungen generell offen durch Handaufheben statt. Bei Onlinesitzungen wird ein Votum mündlich oder in Textform abgegeben.
 
-
 ## Artikel 3 [Vorstand]
 
 (1) Der 1. Vorsitzende beruft Versammlungen ein, lädt Mitglieder ein und leitet die Versammlung oder Sitzung. Er begrüßt die Mitglieder, stellt Stimmberechtigung und Beschlussfähigkeit fest. Er leitet Sitzungen und Versammlungen gemäß den Vorgaben des BGB zur Leitung und Durchführung von Hauptversammlungen
@@ -49,7 +47,6 @@ Andere Beschlüsse werden mit absoluter Mehrheit aller Vorstandsmitglieder gefas
 
 (6) Der Schriftführer hat die Mitgliederversammlungen und die Vorstandssitzungen und -beschlüsse zu protokollieren und zu unterschreiben. Scheidet der Schriftführer während seiner Amtszeit aus, so übernimmt ein anderes Mitglied des Vorstandes diese Aufgabe. Auf jeden Fall ist möglichst sofort für Ersatz bis zur nächsten ordentlichen Mitgliederversammlung zu sorgen.
 
-
 ## Artikel 4 [Ausschüsse]
 
 (1) Der Vorstand darf Ausschüsse gemäß Definition in Art. 1 Abs. 2 GO einsetzen.
@@ -57,7 +54,6 @@ Andere Beschlüsse werden mit absoluter Mehrheit aller Vorstandsmitglieder gefas
 (2) Es können für die Ausschüsse Helfer vom Ausschussleitenden bestellt werden, die ihm für seine Amtszeit zur Seite stehen und ihn zeitweilig ersetzen können. Scheidet ein Ausschussmitglied aus, so kann die Position an einen anderen Helfer weitergegeben werden. Die Ausschüsse sind weisungsgebunden und müssen bei ihrer Tätigkeit gewohnheitsrechtliche Aspekte einhalten.
 
 (3) Jeder Ausschuss kann auf Vorstandssitzungen durch einfache Mehrheit der abgegebenen gültigen Stimmen eingestellt oder entlassen werden; Enthaltungen werden mitgerechnet. Der Vorstand ist für alle Ausschüsse außer gemäß Art. 4 (2) verantwortlich und muss deren satzungsmäßiges Verhalten garantieren.
-
 
 ## Artikel 5 [Präsidium]
 
@@ -85,18 +81,15 @@ Der Präsident kann diese Aufgaben an andere Präsidiumsmitglieder delegieren.
 
 (8) Das Präsidium legt Schlichtungsrichtlinien fest, an welche es sich in Schlichtungsfällen hält. Diese Richtlinien müssen allen Vereinsmitgliedern zur Verfügung gestellt werden und sind jederzeit öffentlich einsehbar.
 
-
 ## Artikel 6 [Verschwiegenheit]
 
 Die Vorstandsmitglieder wie auch die Präsidiumsmitglieder sind zur Verschwiegenheit betreffs interner Angelegenheiten verpflichtet. In nicht eindeutig internen Angelegenheiten ist für eine größtmögliche Transparenz und Kommunikation mit den Vereinsmitgliedern zu sorgen. Das Informieren der Vereinsmitglieder hat auf geeignete Weise zu geschehen. Das Präsidium kontrolliert, dass dieser Informationsfluss ordentlich stattfindet.
-
 
 ## Artikel 7 [Änderung der Geschäftsordnung]
 
 (1) Sowohl auf Online- als auch auf Offlinesitzungen können Änderungen der Geschäftsordnung beschlossen werden. Hierbei ist die Dreiviertelmehrheit der Anwesenden nötig; Enthaltungen werden mitgerechnet. Nur Vorstand und Präsidium gemeinsam können die Geschäftsordnung ändern. Vorschläge können zu Sitzungen des Vorstandes und des Präsidiums eingebracht werden. Die Beitragsordnung ist von dieser Regelung ausgenommen. Sie kann nur vom Vorstand geändert werden und eine Änderung kann auch auf einer Onlinesitzung erfolgen.
 
 (2) Diese geänderte Geschäftsordnung tritt am 11.05.2019 in Kraft.
-
 
 ## Beitragsordnung
 

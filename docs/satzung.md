@@ -7,7 +7,6 @@ Animexx e.V.
 
 (2) Der Verein hat seinen Sitz in München.
 
-
 ## Artikel 2 [Zweck]
 
 (1) a) Zweck des Vereins ist Jugendlichen, aber auch anderen an der japanischen Zeichenkunst interessierten Personen Gelegenheit zu geben, das Wissen und die Kenntnis der japanischen Zeichenkunst, den Anime und Manga, und anderer Elemente der Kunst und Kultur Japans zu vertiefen. Besonderes Ziel ist so auch die Förderung von Anime und Manga, aber auch der Kontakt besonders zwischen Jugendlichen.
@@ -20,13 +19,11 @@ d) Näheres erklärt die Grundsatzordnung, die Bestandteil der Satzung ist.
 
 (2) Der Zweck gemäß Art.2 (1) kann nur mit der Mehrheit von drei Vierteln der Anwesenden der Mitgliederversammlung geändert werden, wenn die Änderung nicht gegen Art.3 (1) verstößt; Enthaltungen werden mitgerechnet.
 
-
 ## Artikel 3 [Gemeinnützigkeit]
 
 (1) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige (und ggf. mildtätige) Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 (2) Der Vorstand des Vereins wird ermächtigt, Änderungen der Satzung zur Angleichung an steuerrechtliche Vorschriften oder an Anforderungen des Vereinsregisters ohne Einberufung der Mitgliederversammlung vorzunehmen, soweit hiervon nicht die Mitgliedsrechte berührt werden.
-
 
 ## Artikel 4 [Mitgliedschaft]
 
@@ -39,6 +36,7 @@ d) Näheres erklärt die Grundsatzordnung, die Bestandteil der Satzung ist.
 (4) Über Antrag auf Gewährung der Mitgliedschaft entscheidet der Vorstand nach freiem Ermessen. Der Vorstand kann die Annahme von Mitgliedern an ein Vorstandsmitglied delegieren. Bei Ablehnung der Mitgliedschaft hat der Antragssteller ein Widerspruchsrecht, über das die nächste Mitgliederversammlung entscheidet. Die Ehrenmitgliedschaft wird durch die Mitgliederversammlung auf Vorschlag des Vorstandes, des Präsidiums oder des Aktivenrates verliehen.
 
 (5) Die Mitgliedschaft endet durch
+
 - Tod oder bei juristischen Personen durch Löschung oder Auflösung
 - Austritt
 - Ausschluss durch den Vorstand
@@ -57,7 +55,6 @@ d) trotz Mahnungen mit mehr als einem Beitrag in Rückstand ist.
 
 Der Vorstand kann den Ausschluss nach Buchstabe d) an ein Vorstandsmitglied delegieren. Der Beschluss ist dem Mitglied in Textform mitzuteilen. In den Fällen a) und b) ist gegen den Beschluss die Beschwerde an die Mitgliederversammlung möglich.
 
-
 ## Artikel 5 [Organe]
 
 (1) Die Organe des Vereins sind
@@ -75,7 +72,6 @@ d) die Mitgliederversammlung
 (3) Die Ämter der Mitglieder in den Organen sind ehrenamtlich wahrzunehmen. In besonderen Fällen kann vom Vorstand ein Aufwendungsersatz nach Art.10 bewilligt werden.
 
 (4) Die Haftung der Organe des Vereins sowie ihrer Erfüllungsgehilfen ist bei leichter Fahrlässigkeit ausgeschlossen. Im Bedarfsfall darf eine Vermögensschadenhaftpflichtversicherung mit angemessener Deckungssumme abgeschlossen werden, deren Prämien vom Verein getragen werden.
-
 
 ## Artikel 6 [Mitgliederversammlung]
 
@@ -108,7 +104,6 @@ Die Mitgliederversammlung entscheidet über Satzungsänderungen und Auflösung d
 
 (9) Die Kassenprüfer erstatten ihren Bericht mündlich der Mitgliederversammlung. Vorab haben die Kassenprüfer einen Bericht zu verfassen, der dem Vorsitzenden und dem Präsidium in Textform zuzustellen ist. Die Kassenprüfer empfehlen die Entlastung oder Nichtentlastung des Vorstandes.
 
-
 ## Artikel 7 [Einberufung der Mitgliederversammlung]
 
 (1) Innerhalb der ersten sechs Monate eines Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt. Das Geschäftsjahr entspricht dem Kalenderjahr.
@@ -121,7 +116,6 @@ Die Mitgliederversammlung entscheidet über Satzungsänderungen und Auflösung d
 
 (5) Anträge auf Satzungsänderung oder Auflösung des Vereins sind beim Vorstand spätestens 60 Tage vor der Versammlung als Vorschlag mit Begründung in Textform einzureichen. Der Vorschlag kann während der Versammlung noch verbessert oder geändert werden, soweit der Sinn des ursprünglichen Antrags erhalten bleibt.
 
-
 ## Artikel 8 [Stimmrecht]
 
 (1) Mitglieder und Ehrenmitglieder haben eine aktive und passive Stimme. Stehen mehrere Mitglieder (juristische Personen) unter personell gleicher Leitung, so hat diese Gruppe pro Mitglied eine aktive und passive Stimme, insgesamt aber nicht mehr als fünf aktive und passive Stimmen. Gastmitglieder haben keine aktive und passive Stimme.
@@ -131,7 +125,6 @@ Die Mitgliederversammlung entscheidet über Satzungsänderungen und Auflösung d
 (3) Jedes stimmberechtigte Mitglied kann sich auf einer Mitgliederversammlung zur Wahl als Vorstandsmitglied stellen. Ehrenmitglieder und juristische Personen können nicht Mitglied im Vorstand werden.
 
 (4) Gesetzliche Vertreter sind von der Ausübung des Stimmrechts ausgeschlossen.
-
 
 ## Artikel 9 [Vorstand]
 
@@ -149,7 +142,7 @@ e) der Schriftführer
 
 Neben ihrer Vorstandstätigkeit können die Vorstandsmitglieder auch als Mitarbeiter des Vereins für andere Aufgaben auf der Grundlage eines Dienst- oder Arbeitsvertrages tätig sein.
 
-(2) Zwei Mitglieder des Vorstandes sind gemeinsam berechtigt, den Verein gerichtlich und außergerichtlich zu vertreten (§ 26 BGB). Sofern ein Beschluss der Mehrheit des Vorstandes vorliegt und dies ordentlich dokumentiert ist, so kann dieser ein einzelnes Vorstandsmitglied dazu befähigen den Verein in der beschlossenen Sache zu vertreten. Die Form und der Ort der Dokumentation sind in der Geschäftsordnung des Vereins einsehbar. 
+(2) Zwei Mitglieder des Vorstandes sind gemeinsam berechtigt, den Verein gerichtlich und außergerichtlich zu vertreten (§ 26 BGB). Sofern ein Beschluss der Mehrheit des Vorstandes vorliegt und dies ordentlich dokumentiert ist, so kann dieser ein einzelnes Vorstandsmitglied dazu befähigen den Verein in der beschlossenen Sache zu vertreten. Die Form und der Ort der Dokumentation sind in der Geschäftsordnung des Vereins einsehbar.
 
 (3) Juristische Personen sind von der Mitgliedschaft im Vorstand ausgeschlossen.
 
@@ -181,10 +174,9 @@ c) Scheidet ein Mitglied des Vorstandes während der zweijährigen Amtszeit aus,
 
 (6) Bei der Einberufung von Vorstandssitzungen muss die Tagesordnung nicht angegeben werden. Der Vorstand ist beschlussfähig, wenn mindestens die Hälfte der amtierenden Vorstandsmitglieder anwesend ist.
 
-(7) Der Vorstand kann nur auf Sitzungen die Mitglieder des Präsidiums bei Einstimmigkeit wählen. Eine Änderung der Geschäftsordnung des Vereins kann nur gemeinsam mit dem Präsidium bei einer Mehrheit von drei Vierteln der Anwesenden beschlossen werden, wobei Enthaltungen mitgerechnet werden. Andere Beschlüsse können auch ohne Sitzungen fernmündlich, telegraphisch, fernschriftlich oder schriftlich bei Einstimmigkeit beschlossen werden 
+(7) Der Vorstand kann nur auf Sitzungen die Mitglieder des Präsidiums bei Einstimmigkeit wählen. Eine Änderung der Geschäftsordnung des Vereins kann nur gemeinsam mit dem Präsidium bei einer Mehrheit von drei Vierteln der Anwesenden beschlossen werden, wobei Enthaltungen mitgerechnet werden. Andere Beschlüsse können auch ohne Sitzungen fernmündlich, telegraphisch, fernschriftlich oder schriftlich bei Einstimmigkeit beschlossen werden
 
 (8) Eine Abwahl eines Ausschusses oder eines Präsidiumsmitglieds ist nur durch ein konstruktives Misstrauensvotum des Vorstandes möglich. Dazu muss eine absolute Mehrheit der abgegebenen gültigen Stimmen erfolgen, d.h. die Zahl der Ja-Stimmen muß die Zahl der Nein-Stimmen und Enthaltungen übertreffen.
-
 
 ## Artikel 9a [Präsidium]
 
@@ -199,7 +191,6 @@ c) Scheidet ein Mitglied des Vorstandes während der zweijährigen Amtszeit aus,
 (5) Die Bestellung zum Mitglied des Präsidiums erfolgt für zwei Jahre.
 
 (6) Das Präsidium ist zur Verschwiegenheit betreffs interner Angelegenheiten verpflichtet. Es soll aber, wo immer dies möglich ist, das Gespräch mit dem Vorstand suchen, um eine größtmögliche Offenheit, Transparenz und Verfügbarkeit von Informationen für die Vereinsmitglieder zu erreichen.
-
 
 ## Artikel 9b [Aktivenrat]
 
@@ -221,7 +212,6 @@ c) Der Aktivenrat tagt mindestens einmal im Jahr und gibt sich eine Geschäftsor
 
 d) In der Geschäftsordnung des Aktivenrats muss die Wahl oder Bestellung von 1 bis 5 Aktivenratssprechern sowie die Aufteilung aller Aufgaben, Rechte und Pflichten zwischen diesen Personen geregelt sein. Ein Sprecher legt dem Vorstand Anfang des Jahres einen Budgetplan vor. Sollte sich kein Sprecher finden, so können der Vorstand oder das Präsidium einzelne oder alle Aufgaben der Aktivenratssprecher übernehmen, sind dazu jedoch nicht verpflichtet.
 
-
 ## Artikel 10 [Haushaltsführung]
 
 (1) Das Haushalts- und Geschäftsjahr ist das Kalenderjahr.
@@ -240,7 +230,6 @@ Die Mitglieder haben bei ihrem Ausscheiden keinen Anspruch auf das Vereinsvermö
 
 (7) Die Kassenprüfer haben das Recht, jederzeit die Kassenführung des Vereins zu prüfen. Der Vorstand muss auf ihr Verlangen jederzeit Einblick in alle für die Buchführung relevanten Unterlagen gewähren.
 
-
 ## Artikel 11 [Beiträge]
 
 (1) Jedes Mitglied ist verpflichtet, nach der Beitragsordnung Beiträge an den Verein zu zahlen. Ehrenmitglieder sind von dieser Beitragspflicht befreit. Auf besonderen Antrag kann der Vorstand auch andere Mitglieder von der Beitragspflicht befreien, wenn dies dem Vereinszweck förderlich ist.
@@ -251,13 +240,11 @@ Die Mitglieder haben bei ihrem Ausscheiden keinen Anspruch auf das Vereinsvermö
 
 (4) Die Mitgliedsrechte ruhen, wenn der Mitgliedsbeitrag nicht gezahlt bzw. nicht durch den Vorstand gestundet oder erlassen ist. Eine Rückzahlung findet nicht statt.
 
-
 ## Artikel 12 [Auflösung]
 
 (1) Die Auflösung erfolgt durch Beschluss der Mitgliederversammlung mit einer Stimmenmehrheit von drei Vierteln der anwesenden stimmberechtigten Mitglieder.
 
 (2) Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Deutsch-Japanische Gesellschaft in Bayern e.V., die es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
-
 
 ## Artikel 13 [Datenschutzerklärung]
 
@@ -265,11 +252,9 @@ Die Mitglieder haben bei ihrem Ausscheiden keinen Anspruch auf das Vereinsvermö
 
 (2) Die Datenschutzerklärung des Vereins findet sich auf der Webseite www.animexx.de unter Datenschutz.
 
-
 ## Artikel 14 [Inkrafttreten]
 
 (1) Diese Satzung mit all ihren Bestandteilen tritt mit der Beschlussfassung auf der Mitgliederversammlung am 19.06.2021 in Kraft.
-
 
 ## Grundsatzordnung
 
