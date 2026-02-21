@@ -3,8 +3,8 @@ name: Test
 on:
   push:
     branches:
-        - "**"
-        - "!main"
+      - "**"
+      - "!main"
 
   workflow_dispatch:
 
@@ -12,10 +12,10 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-python@v6
+      - uses: actions/checkout@v6
+      - uses: astral-sh/setup-uv@v7
         with:
-          cache: "pip"
+          enable-cache: true
       - run: |
-          pip install -r requirements.txt
-          mkdocs build
+          uv sync --no-dev
+          zensical build

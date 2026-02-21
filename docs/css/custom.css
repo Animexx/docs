@@ -1,4 +1,20 @@
-:root {
+:root > * {
     --md-primary-fg-color: #6785be;
-    --md-default-bg-color: #f8f8f8;
+    --md-primary-fg-color--light: #6785be;
+    --md-primary-fg-color--dark:  #6785be;
+}
+
+/* Default / Light Mode */
+[data-md-color-scheme="default"] .md-header__button.md-logo img {
+    /* --md-default-bg-color: #f8f8f8; */
+    content: url("/img/logo/svg/animexx-logo_RGB.svg");
+}
+
+/* Dark Mode */
+[data-md-color-scheme="slate"] .md-header__button.md-logo img {
+    content: url("/img/logo/svg/animexx-logo_RGB-weiß.svg");
+}
+
+.md-header__source {
+    display: none;
 }

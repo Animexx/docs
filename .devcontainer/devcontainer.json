@@ -1,18 +1,21 @@
 {
-	"name": "Animexx Docs",
-	"image": "python:3-slim-trixie",
+    "name": "Animexx Docs",
+    "image": "python:3-slim-trixie",
+    "postCreateCommand": "chmod +x ./.devcontainer/setup.sh && ./.devcontainer/setup.sh",
     "customizations": {
         "vscode": {
             "extensions": [
-                "charliermarsh.ruff"
+                "charliermarsh.ruff",
+                "esbenp.prettier-vscode"
             ],
             "settings": {
+                "python.terminal.activateEnvInSelectedTerminal": true,
                 "editor.formatOnSave": true,
                 "editor.codeActionsOnSave": {
                     "source.organizeImports": "explicit"
                 },
-                "[python]": {
-                    "editor.defaultFormatter": "charliermarsh.ruff"
+                "[markdown]": {
+                    "editor.defaultFormatter": "esbenp.prettier-vscode"
                 }
             }
         }
