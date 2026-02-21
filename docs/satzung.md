@@ -110,7 +110,7 @@ Die Mitgliederversammlung entscheidet über Satzungsänderungen und Auflösung d
 
 (2) Eine außerordentliche Mitgliederversammlung findet auf Beschluss des Vorstandes binnen 6 Wochen statt, wenn das Vereinsinteresse es erfordert. Sie ist ferner binnen 6 Wochen anzuberaumen, wenn mindestens 5% der stimmberechtigten Mitglieder es schriftlich unter Angabe des Zwecks und der Gründe verlangen (Minderheitenrecht gem. § 37 BGB).
 
-(3) Alle Mitgliederversammlungen sind durch das zuständige Mitglied des Vorstandes in Textform per Mail einzuberufen; dabei ist die Tagesordnung anzugeben. Eine Einberufungsfrist von 30 Tagen ist einzuhalten. Das Einladungsschreiben gilt dem Mitglied als zugegangen, wenn es an die letzte vom Mitglied des Vereins bekannt gegebene Mail-Adresse gerichtet ist. Nach vorheriger Umstellung der Versandart durch das jeweilige Mitglied wird ihm die Einladung schriftlich per Brief übermittelt werden.
+(3) Alle Mitgliederversammlungen sind durch das zuständige Mitglied des Vorstandes in Textform per E-Mail einzuberufen; dabei ist die Tagesordnung anzugeben. Eine Einberufungsfrist von 30 Tagen ist einzuhalten. Das Einladungsschreiben gilt dem Mitglied als zugegangen, wenn es an die letzte vom Mitglied des Vereins bekannt gegebene E-Mail-Adresse gerichtet ist.
 
 (4) Anträge zur Tagesordnung einer ordentlichen Mitgliederversammlung sind dem Vorstand mindestens 14 Tage vor der Versammlung in Textform einzureichen; auf außerordentlichen Mitgliederversammlungen können Anträge mündlich zur Abstimmung gestellt werden, soweit sie nicht die Satzungsänderung oder die Auflösung des Vereins betreffen.
 
