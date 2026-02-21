@@ -18,4 +18,4 @@ jobs:
           enable-cache: true
       - run: |
           uv sync --no-dev
-          zensical build
+          uv run zensical build
