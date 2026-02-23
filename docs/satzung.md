@@ -110,7 +110,7 @@ a) Wird zu einer virtuelle oder hybriden Versammlung eingeladen, werden die erfo
 
 b) Die Stimmabgabe und die Ausübung von Mitgliederrechten mittels elektronischer Kommunikation sind zulässig. Der Vorstand ist ermächtigt, nähere Bestimmungen zum Verfahren der elektronischen Stimmabgabe festzulegen.
 
-c) Liegt eine technische Störung vor, die eine ordnungsgemäße Durchführung der Versammlung verhindert, entscheidet die Versammlungsleitung über einen Abbruch. In diesem Fall wird ein Ersatztermin innerhalb eines Monats festgelegt. Technische Störungen im Verantwortungsbereich einzelner Mitglieder beeinträchtigen die Wirksamkeit der Versammlung, der Wahlen und gefasster Beschlüsse nicht.
+c) Liegt eine technische Störung vor, die eine ordnungsgemäße Durchführung der Versammlung verhindert, wird ein Ersatztermin innerhalb eines Monats festgelegt. Sollten die technischen Probleme nicht bis zur nächsten geplanten Versammlung gelöst werden können, wird eine Präsenzveranstaltung abgehalten. Technische Störungen im Verantwortungsbereich einzelner Mitglieder beeinträchtigen die Wirksamkeit der Versammlung, der Wahlen und gefasster Beschlüsse nicht.
 
 ## Artikel 7 [Einberufung der Mitgliederversammlung]
 
