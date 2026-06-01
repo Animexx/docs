@@ -88,6 +88,7 @@ Die Vorstandsmitglieder wie auch die Präsidiumsmitglieder sind zur Verschwiegen
 ## Artikel 7 [Änderung der Geschäftsordnung]
 
 (1) Sowohl auf Online- als auch auf Offlinesitzungen können Änderungen der Geschäftsordnung beschlossen werden. Hierbei ist die Dreiviertelmehrheit der Anwesenden nötig; Enthaltungen werden mitgerechnet. Nur Vorstand und Präsidium gemeinsam können die Geschäftsordnung ändern. Vorschläge können zu Sitzungen des Vorstandes und des Präsidiums eingebracht werden. Die Beitragsordnung ist von dieser Regelung ausgenommen.
+
 (2) Diese geänderte Geschäftsordnung tritt am 01.06.2026 in Kraft.
 
 ## Beitragsordnung
