@@ -109,7 +109,7 @@ Gastmitglieder müssen für jede besuchte Vereinsveranstaltung einen Veranstaltu
 
 (7) Gastmitglieder müssen ihren Veranstaltungsbeitrag entweder vor der Vereinsveranstaltung oder direkt auf der Vereinsveranstaltung entrichten. Die Erteilung einer Gastmitgliedschaft ist an die Zahlung des Veranstaltungsbeitrages gebunden.
 
-(8) Die Beitragsordnung kann mit einer einfachen Mehrheit der abgegebenen gültigen Stimmen des Vorstandes geändert werden; Enthaltungen werden nicht mitgerechnet. Das Präsidium kann einstimmig eine Änderung verhindern.
+(8) Die Beitragsordnung kann mit einer einfachen Mehrheit der abgegebenen gültigen Stimmen der Mitgliederversammlung geändert werden; Enthaltungen werden nicht mitgerechnet.
 
 (9) Diese geänderte Beitragsordnung tritt am 01.01.2016 in Kraft.
 
