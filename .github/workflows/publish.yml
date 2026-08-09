@@ -24,7 +24,7 @@ jobs:
         with:
           enable-cache: true
       - run: |
-          uv sync --no-dev
+          uv sync --locked --no-dev
           uv run zensical build --clean
       - uses: actions/upload-pages-artifact@v4
         with:

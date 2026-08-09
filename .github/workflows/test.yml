@@ -17,5 +17,5 @@ jobs:
         with:
           enable-cache: true
       - run: |
-          uv sync --no-dev
+          uv sync --locked --no-dev
           uv run zensical build

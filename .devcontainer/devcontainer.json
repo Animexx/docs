@@ -1,10 +1,11 @@
 {
     "name": "Animexx Docs",
-    "image": "python:3-slim-trixie",
+    "image": "python:3.14-slim-trixie",
     "postCreateCommand": "chmod +x ./.devcontainer/setup.sh && ./.devcontainer/setup.sh",
     "customizations": {
         "vscode": {
             "extensions": [
+                "ms-python.python",
                 "charliermarsh.ruff",
                 "esbenp.prettier-vscode"
             ],
