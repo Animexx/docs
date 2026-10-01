@@ -11,13 +11,13 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Animexx e. V. – Vereinsdokumente"
+site_name = "Animexx e. V."
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "Offizielle Vereinsdokumente des Animexx e. V."
+site_description = "Dokumentensammlung des Animexx e. V."
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -37,7 +37,8 @@ edit_uri = "blob/main/docs/"
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
 copyright = """
-&copy; 2026 Animexx e.V - <a href='https://verein.animexx.de/impressum/' target='_blank'>Impressum<a/>
+<a href='https://www.animexx.de/impressum.phtml' target='_blank'>Impressum</a> - <a href='https://www.animexx.de/datenschutz.php' target='_blank'>Datenschutz</a>
+<div>&copy; 2026 Animexx e.V
 """
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
@@ -314,4 +315,9 @@ toggle.name = "Switch to light mode"
 #icon = "fontawesome/brands/github"
 #link = "https://github.com/user/repo"
 
-[project.markdown_extensions.attr_list]
+[project.markdown_extensions]
+admonition = {}
+attr_list = {}
+pymdownx.superfences = {}
+pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
+pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"

@@ -6,7 +6,7 @@ dependencies = []
 
 [dependency-groups]
 dev = [
-    "zensical==0.0.50",
+    "zensical==0.0.54",
 ]
 
 [tool.uv]
