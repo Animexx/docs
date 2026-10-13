@@ -1,4 +1,6 @@
-# Geschäftsordnung des Aktivenrats
+---
+title: Geschäftsordnung des Aktivenrats
+---
 
 ## Artikel 1 Treffen & Aktiventag
 

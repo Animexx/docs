@@ -13,9 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: astral-sh/setup-uv@v7
+      - uses: actions/setup-node@v6
         with:
-          enable-cache: true
+          node-version: 24
+          cache: yarn
       - run: |
-          uv sync --locked --no-dev
-          uv run zensical build
+          yarn install --immutable
+          yarn run build

@@ -1,0 +1,23 @@
+---
+import Default from "@astrojs/starlight/components/Footer.astro";
+---
+
+<Default><slot /></Default>
+<div class="copyright">
+  <a href="https://www.animexx.de/impressum.phtml" target="_blank">Impressum</a>
+  -
+  <a href="https://www.animexx.de/datenschutz.php" target="_blank">Datenschutz</a>
+  <div>&copy; 2026 Animexx e.V</div>
+</div>
+
+<style>
+  .copyright {
+    margin-top: 1.5rem;
+    font-size: var(--sl-text-sm);
+    color: var(--sl-color-gray-3);
+    text-align: center;
+  }
+  .copyright a {
+    color: inherit;
+  }
+</style>

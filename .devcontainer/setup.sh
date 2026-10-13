@@ -1,3 +1,5 @@
 #!/bin/bash
-pip install uv==0.11.26
-uv sync
+
+npm install -g corepack && corepack enable && corepack install
+
+yarn install
