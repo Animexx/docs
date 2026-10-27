@@ -104,13 +104,21 @@ Die Mitgliederversammlung entscheidet über Satzungsänderungen und Auflösung d
 
 (9) Die Kassenprüfer erstatten ihren Bericht mündlich der Mitgliederversammlung. Vorab haben die Kassenprüfer einen Bericht zu verfassen, der dem Vorsitzenden und dem Präsidium in Textform zuzustellen ist. Die Kassenprüfer empfehlen die Entlastung oder Nichtentlastung des Vorstandes.
 
+(10) Die Mitgliederversammlung kann als Kombination aus Präsenzveranstaltung und virtueller/online Versammlung (hybride Versammlung) abgehalten werden. Über die Form der Versammlung entscheidet der Vorstand und teilt diese in der Einladung dazu mit.
+
+a) Wird zu einer hybriden Versammlung eingeladen, werden die erforderlichen Zugangsdaten rechtzeitig vor Beginn der Versammlung an die dem Verein zuletzt bekannte E-Mail-Adresse des Mitglieds übermittelt.
+
+b) Die Stimmabgabe und die Ausübung von Mitgliederrechten mittels elektronischer Kommunikation sind zulässig. Der Vorstand ist ermächtigt, nähere Bestimmungen zum Verfahren der elektronischen Stimmabgabe festzulegen.
+
+c) Liegt eine technische Störung vor, die eine ordnungsgemäße Durchführung der Versammlung verhindert, wird ein Ersatztermin innerhalb eines Monats festgelegt. Sollten die technischen Probleme nicht bis zur nächsten geplanten Versammlung gelöst werden können, wird eine Präsenzveranstaltung abgehalten. Technische Störungen im Verantwortungsbereich einzelner Mitglieder beeinträchtigen die Wirksamkeit der Versammlung, der Wahlen und gefasster Beschlüsse nicht.
+
 ## Artikel 7 [Einberufung der Mitgliederversammlung]
 
 (1) Innerhalb der ersten sechs Monate eines Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt. Das Geschäftsjahr entspricht dem Kalenderjahr.
 
 (2) Eine außerordentliche Mitgliederversammlung findet auf Beschluss des Vorstandes binnen 6 Wochen statt, wenn das Vereinsinteresse es erfordert. Sie ist ferner binnen 6 Wochen anzuberaumen, wenn mindestens 5% der stimmberechtigten Mitglieder es schriftlich unter Angabe des Zwecks und der Gründe verlangen (Minderheitenrecht gem. § 37 BGB).
 
-(3) Alle Mitgliederversammlungen sind durch das zuständige Mitglied des Vorstandes in Textform per Mail einzuberufen; dabei ist die Tagesordnung anzugeben. Eine Einberufungsfrist von 30 Tagen ist einzuhalten. Das Einladungsschreiben gilt dem Mitglied als zugegangen, wenn es an die letzte vom Mitglied des Vereins bekannt gegebene Mail-Adresse gerichtet ist. Nach vorheriger Umstellung der Versandart durch das jeweilige Mitglied wird ihm die Einladung schriftlich per Brief übermittelt werden.
+(3) Alle Mitgliederversammlungen sind durch das zuständige Mitglied des Vorstandes in Textform per E-Mail einzuberufen; dabei ist die Tagesordnung anzugeben. Eine Einberufungsfrist von 30 Tagen ist einzuhalten. Das Einladungsschreiben gilt dem Mitglied als zugegangen, wenn es an die letzte vom Mitglied des Vereins bekannt gegebene E-Mail-Adresse gerichtet ist.
 
 (4) Anträge zur Tagesordnung einer ordentlichen Mitgliederversammlung sind dem Vorstand mindestens 14 Tage vor der Versammlung in Textform einzureichen; auf außerordentlichen Mitgliederversammlungen können Anträge mündlich zur Abstimmung gestellt werden, soweit sie nicht die Satzungsänderung oder die Auflösung des Vereins betreffen.
 
