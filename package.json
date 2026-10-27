@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "yarn run clean && astro dev --host --force",
     "start": "astro dev",
-    "build": "astro build",
-    "preview": "yarn run clean && astro preview --host",
+    "build": "yarn run clean && astro build",
+    "preview": "yarn run build && astro preview --host",
     "astro": "astro",
     "clean": "node -e \"fs.rmSync('dist', { recursive: true, force: true })\""
   },
