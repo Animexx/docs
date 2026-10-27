@@ -1,4 +1,6 @@
-# Corporate Design
+---
+title: Corporate Design
+---
 
 Diese Übersicht ist die zentrale Anlaufstelle für alle vereinsweit verbindlichen Gestaltungsvorgaben sowie für Informationen und Ressourcen zum Corporate Design des Animexx e. V.
 
@@ -16,17 +18,18 @@ Damit das Logo immer gut sichtbar und lesbar ist, muss es sich deutlich vom Hint
 - Auf dunklen oder farbigen Hintergründen wird in der Regel die weiße Variante verwendet.
 - Im Zweifel ist immer die Variante zu wählen, die die beste Lesbarkeit gewährleistet.
 
-!!! warning "Hinweis zur Logoverwendung"
+:::caution[Hinweis zur Logoverwendung]
 
-    Um ein einheitliches Erscheinungsbild sicherzustellen, dürfen die Logos nicht eigenständig verändert oder mit zusätzlichen Texten ergänzt werden. Das Logo darf insbesondere nicht eingefärbt, verzerrt, gestaucht oder anderweitig verändert werden.
+Um ein einheitliches Erscheinungsbild sicherzustellen, dürfen die Logos nicht eigenständig verändert oder mit zusätzlichen Texten ergänzt werden. Das Logo darf insbesondere nicht eingefärbt, verzerrt, gestaucht oder anderweitig verändert werden.
 
-    Für Treffen ist es zulässig, das Animexx-Logo um den Namen oder die Ortsbezeichnung des jeweiligen Treffens zu ergänzen. Dabei muss das Animexx-Logo selbst unverändert bleiben.
+Für Treffen ist es zulässig, das Animexx-Logo um den Namen oder die Ortsbezeichnung des jeweiligen Treffens zu ergänzen. Dabei muss das Animexx-Logo selbst unverändert bleiben.
 
-    Für alle anderen Anwendungen sind ausschließlich die hierfür bereitgestellten Logo-Dateien zu verwenden.
+Für alle anderen Anwendungen sind ausschließlich die hierfür bereitgestellten Logo-Dateien zu verwenden.
+:::
 
 #### Allgemein
 
-<div style="display: flex; margin-bottom: 1.5rem;">
+<div class="not-content" style="display: flex; margin-bottom: 1.5rem;">
     <div style="width: 50%; background-color: #ffffff; padding: 2rem;">
         <img src="/img/logo/svg/animexx-logo_RGB.svg" style="width: 100%; display: block;">
     </div>
@@ -41,7 +44,7 @@ Das ist die universelle Standard-Version. Sie wird immer dann verwendet, wenn de
 
 #### Verein
 
-<div style="display: flex; margin-bottom: 1.5rem;">
+<div class="not-content" style="display: flex; margin-bottom: 1.5rem;">
     <div style="width: 50%; background-color: #ffffff; padding: 2rem;">
         <img src="/img/logo/svg/animexx-logo-verein_RGB.svg" style="width: 100%; display: block;">
     </div>
@@ -56,7 +59,7 @@ Dieses Logo wird für die allgemeine Außenwirkung und die gezielte Werbung für
 
 #### Projekt
 
-<div style="display: flex; margin-bottom: 1.5rem;">
+<div class="not-content" style="display: flex; margin-bottom: 1.5rem;">
     <div style="width: 50%; background-color: #ffffff; padding: 2rem;">
         <img src="/img/logo/svg/animexx-logo-projekt_RGB.svg" style="width: 100%; display: block;">
     </div>
@@ -71,7 +74,7 @@ Diese Variante ist das offizielle Logo für die Projekte (Convention, Treffen, u
 
 #### Treffen
 
-<div style="display: flex; margin-bottom: 1.5rem;">
+<div class="not-content" style="display: flex; margin-bottom: 1.5rem;">
     <div style="width: 50%; background-color: #ffffff; padding: 2rem;">
         <img src="/img/logo/svg/treffen-muc-logo_RGB.svg" style="width: 100%; display: block;">
     </div>

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
+import re
 import subprocess
 import tempfile
 from pathlib import Path
@@ -37,6 +38,24 @@ parser.add_argument("-o", "--output", default="diff.html", help="Ausgabedatei")
 
 args = parser.parse_args()
 
+FRONTMATTER = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n", re.DOTALL)
+
+
+def read_markdown(path):
+    text = Path(path).read_text(encoding="utf-8")
+    match = FRONTMATTER.match(text)
+    if not match:
+        return text
+
+    body = text[match.end() :]
+    title = re.search(r"^title:\s*(.+?)\s*$", match.group(1), re.MULTILINE)
+    if not title:
+        return body
+
+    heading = title.group(1).strip("\"'")
+    return f"# {heading}\n\n{body}"
+
+
 with tempfile.TemporaryDirectory() as tmp:
     tmp = Path(tmp)
 
@@ -48,10 +67,12 @@ with tempfile.TemporaryDirectory() as tmp:
             "pandoc",
             "-f",
             "commonmark",
-            args.old,
             "-o",
             str(old_html),
         ],
+        input=read_markdown(args.old),
+        text=True,
+        encoding="utf-8",
         check=True,
     )
 
@@ -60,10 +81,12 @@ with tempfile.TemporaryDirectory() as tmp:
             "pandoc",
             "-f",
             "commonmark",
-            args.new,
             "-o",
             str(new_html),
         ],
+        input=read_markdown(args.new),
+        text=True,
+        encoding="utf-8",
         check=True,
     )
 

@@ -13,13 +13,16 @@ All official documents for the Animexx e. V. can be found here.
 
 ## Local preview
 
-To create a local preview, run the following command:
+The site is built with [Astro Starlight](https://starlight.astro.build). The documents are located in `src/content/docs/`, images and fonts in `public/`.
+
+To create a local preview, run the following commands:
 
 ```sh
-zensical serve
+yarn install
+yarn run dev
 ```
 
-**It is important to activate the environment for the terminal before running the command.**
+To build the static site into `dist/`, run `yarn run build`.
 
 ## Export Diff as Document
 

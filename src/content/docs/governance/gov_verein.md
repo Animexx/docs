@@ -1,4 +1,6 @@
-# Geschäftsordnung des Vereins
+---
+title: Geschäftsordnung des Vereins
+---
 
 ## Artikel 1 [Begriffsdefinitionen]
 

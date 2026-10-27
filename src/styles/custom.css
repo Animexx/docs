@@ -1,0 +1,17 @@
+/* Schriften aus @fontsource-variable (siehe customCss in astro.config.ts) */
+:root {
+  --sl-font: "Source Sans 3 Variable", sans-serif;
+  --sl-font-mono: "Source Code Pro Variable", monospace;
+}
+
+:root {
+  --sl-color-accent-low: #202d4a;
+  --sl-color-accent: #6785be;
+  --sl-color-accent-high: #c4d3ea;
+}
+
+:root[data-theme="light"] {
+  --sl-color-accent-low: #c4d3ea;
+  --sl-color-accent: #6785be;
+  --sl-color-accent-high: #202d4a;
+}

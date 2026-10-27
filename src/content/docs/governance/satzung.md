@@ -1,4 +1,6 @@
-# Satzung
+---
+title: Satzung
+---
 
 ## Artikel 1 [Name und Sitz]
 
