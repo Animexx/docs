@@ -4,8 +4,7 @@
   --sl-font-mono: "Source Code Pro Variable", monospace;
 }
 
-/* Animexx-Blau (siehe Corporate Design) */
-/* :root {
+:root {
   --sl-color-accent-low: #202d4a;
   --sl-color-accent: #6785be;
   --sl-color-accent-high: #c4d3ea;
@@ -13,6 +12,6 @@
 
 :root[data-theme="light"] {
   --sl-color-accent-low: #c4d3ea;
-  --sl-color-accent: #4b6395;
+  --sl-color-accent: #6785be;
   --sl-color-accent-high: #202d4a;
-} */
+}
